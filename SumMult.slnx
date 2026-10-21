@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SumMult/SumMult.vcxproj" Id="925bf4a6-77f7-4438-9eb4-00f37af39d50" />
+</Solution>
