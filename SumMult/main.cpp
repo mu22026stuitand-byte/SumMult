@@ -1,9 +1,9 @@
 ﻿#include <iostream>
 #include "calc.h"
 using namespace std;
-
-int mult(int x,int y)
-{
+//↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+static int mult(int x,int y)//←←←←←←←←←←←←←←
+{//↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
     int a = x * y;
     return a;
 }
